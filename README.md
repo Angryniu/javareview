@@ -32,4 +32,4 @@
 ## （六）Java枚举（限制变量只能使用规定的值，减少bug出现）
 
 ## （七）Java关键词
-<https://github.com/Angryniu/javareview/blob/main/java%E5%85%B3%E9%94%AE%E5%AD%97.png>
+![alt Java关键词](https://github.com/Angryniu/javareview/blob/main/java%E5%85%B3%E9%94%AE%E5%AD%97.png)
